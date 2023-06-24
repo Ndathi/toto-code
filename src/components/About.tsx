@@ -1,7 +1,7 @@
 import Img1 from '../assets/media/kibera-1.png'
 import Img2 from '../assets/media/kibera-2.png'
 import Img6 from '../assets/media/kibera-6.jpg'
-import Img3 from '../assets/media/kibera-3.jpg'
+
 import Img4 from '../assets/media/kibera-4.jpg'
 
 
