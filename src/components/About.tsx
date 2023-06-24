@@ -31,7 +31,7 @@ function About() {
           </div>
 
           <div className='w-full shadow-xl relative group cursor-pointer max-w-md  flex flex-col items-center justify-center'>
-            <img src={Img3} className="object-cover h-96 rounded-md "/>
+            <img src={Img2} className="object-cover h-96 rounded-md "/>
             <div className="invisible absolute inset-0   bg-gradient-to-b from-black via-transparent to-black group-hover:visible" >
             <p className='absolute invisible group-hover:visible bottom-4 text-base text-white p-4 font-semibold  '>Residents often live in cramped one-roomed homes mostly made of mud and iron sheets. Water is collected in jerry cans from water points around the slum.</p>
             </div>
